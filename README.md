@@ -1,8 +1,7 @@
 
 
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
-    
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ᴅᴀʀᴋ+ＢＩＳＡ+ᴹᴰ+WP+BOT.;CREATED+BY+BISA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
 
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
@@ -10,10 +9,9 @@
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ᴅᴀʀᴋ+ＢＩＳＡ+ᴹᴰ+WP+BOT.;CREATED+BY+BISA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
-
-<img src="dark.jpeg"width="300" height="270"/>
-    
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+  
 <p align="center">
 DARK-BISA-MD-V1 Multi Device is a automated whatsapp bot created by <a href="https://github.com/bisandamaneth" target="_blank">bisandamaneth1</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
     </p>
