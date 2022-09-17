@@ -19,7 +19,6 @@ DARK-BISA-MD-V1 Multi Device is a automated whatsapp bot created by <a href="htt
 <p align="center">
 <a href="https://youtu.be/xn9RatOrbuI"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>  
- ------
     
  # ```Bot Info```
  <p align="center">
