@@ -45,7 +45,7 @@ DARK-BISA-MD-V1 Multi Device is a automated whatsapp bot created by <a href="htt
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
