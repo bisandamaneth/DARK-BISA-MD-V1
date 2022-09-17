@@ -61,7 +61,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - FORK THE REPOSITORY [Here](https://github.com/bisandamaneth/DARK-BISA-MD-V1/fork)
 
 ## `Scan QR Code For Session`
-[![ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@bisandamaneth/ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰBot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ](https://repl.it/badge/github/quiec/whatsasena)]https://replit.com/@darklyonteam/Dark-Bisa-MD-Qr?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
 
