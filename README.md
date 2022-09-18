@@ -40,7 +40,7 @@ DARK-BISA-MD-V1 Multi Device is a automated whatsapp bot created by <a href="htt
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/94771825716"><img src="https://img.shields.io/badge/Contact 𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/FL1Vu6kHw159V3PFvPB5R5"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FL1Vu6kHw159V3PFvPB5R5"><img src="https://img.shields.io/badge/Join Official GRP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UC9yYBHDtitW6XiDFi0AMi4g"><img src="https://img.shields.io/badge/Subscribe BISA YT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
