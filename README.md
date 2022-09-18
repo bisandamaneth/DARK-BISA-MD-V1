@@ -6,8 +6,7 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="[https://media.tenor.co/2seCzLToy24AAAAc/you-can-do-it-i-believe-in-you.gif](https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-…pendence-day-happy-sri-lanka-independence-day.gif
-)" alt="animated" width="540" height="280" />
+<img src="[(https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-…pendence-day-happy-sri-lanka-independence-day.gif])" alt="animated" width="540" height="280" />
 </p> 
     
 #### TOTAL REPO VIEWS📍
