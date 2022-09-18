@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 👑ᴅᴀʀᴋＢＩＳＡ yt. 👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ
+//© 2022 𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 yt. 𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️
 //Thank you to Lord Buddha, Family and Myself
 //♥️DARKLYON™️  
 //════════════════════════════//
@@ -12,7 +12,7 @@
 // If yes, tell me about BISA YT channel
 // Give credit or github to paste the link. In this form
 // repo me bhi tag cardena baki jo
-// want you too, thanks! ♥️DARKLYON™️ 
+// want you too, thanks! 𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️
 //════════════════════════════//
 //If you re-encode and upload on your channel
 //or copy and paste the codes in ur script,
@@ -20,7 +20,7 @@
 //Put the BISA YT youtube channel link in the video
 //description and tag me on githuh repo,
 //Thank you!
-//♥️DARKLYON™️ 
+//𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️ 
 //════════════════════════════//
 
 require("./config.js")
