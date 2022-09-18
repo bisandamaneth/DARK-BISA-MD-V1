@@ -6,7 +6,7 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="https://media.tenor.co/y2JXkY1pXkwAAAAc/cat-computer/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-independence-day-happy-sri-lanka-independence-day/tenor.gif" alt="animated" width="540" height="280" />
 </p>
 
     
@@ -80,7 +80,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bisandamanethy/CheemsBot-MD3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bisandamaneth/👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -91,8 +91,7 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/bisandamaneth/DARK-BISA-MD-V1
-cd DARK-BISA-MD-V1
+git clone https://github.com/bisandamaneth/
 
 npm start
 ```
@@ -108,7 +107,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/bisandamaneth/DARK-BISA-MD-V1
+git clone https://github.com/bisandamaneth/👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ
 cd DARK-BISA-MD-V1
 npm start
 ```
@@ -120,7 +119,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/bisandamaneth/DARK-BISA-MD-V1
+git clone https://github.com/bisandamaneth/👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ
 cd DARK-BISA-MD-V1 
 npm start
 ```
