@@ -6,7 +6,7 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="(https://media.tenor.co/3upWcWONJdEAAAAc/%E0%B6%9C%E0%B7%9C%E0%B6%A7%E0%B6%B6%E0%B6%BA-gotabaya.gif)" alt="animated" width="540" height="280" />
+<img src="(https://media.tenor.co/5ZMDLUbGMCUAAAAc/hello-hi.gif)" alt="animated" width="540" height="280" />
 </p>
 
     
