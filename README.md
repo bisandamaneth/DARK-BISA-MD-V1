@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ᴅᴀʀᴋ+ＢＩＳＡ+ᴹᴰ+WP+BOT.;CREATED+BY+BISA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT;SUBSCRIBE+MY+YOU+TUBE+CHANNEL)](https://git.io/typing-svg)
 
 
-<h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
+<h1 align="center">𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️<br></h1>
 <p align="center">
 
 <img src="https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-independence-day-happy-sri-lanka-independence-day/tenor.gif" alt="animated" width="350" height="200" />
@@ -107,7 +107,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/bisandamaneth/👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ
+git clone https://github.com/bisandamaneth/𝗗𝗔𝗥𝗞 𝗕𝗜𝗦𝗔 𝗠𝗗❤️
 cd DARK-BISA-MD-V1
 npm start
 ```
