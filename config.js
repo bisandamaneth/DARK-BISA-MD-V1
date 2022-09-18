@@ -18,7 +18,7 @@
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you♥️
+//thank you👑
 //════════════════════════════//
 
 const fs = require("fs")
@@ -48,7 +48,8 @@ global.socialm = "GitHub: dark lyon tm" //ur github or insta name
 global.location = "Sri lanka, kaluthara, dodangoda" //ur location
 
 //bot bombdy
-global.botname = "👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ" //ur bot name
+global.botname = "//thank you♥️
+ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ ♥️ "
