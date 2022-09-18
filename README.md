@@ -6,7 +6,7 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="(https://media.tenor.co/5ZMDLUbGMCUAAAAc/hello-hi.gif)" alt="animated" width="540" height="280" />
+<img src="https://media.tenor.co/y2JXkY1pXkwAAAAc/cat-computer/tenor.gif" alt="animated" width="540" height="280" />
 </p>
 
     
@@ -80,7 +80,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bisandamanethy/CheemsBot-MD3/)
 
 # Install Manually 👇
 ## `Requirements`
