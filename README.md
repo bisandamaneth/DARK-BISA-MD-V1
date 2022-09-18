@@ -6,8 +6,8 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
-</p>
+<img src="https://media.tenor.co/2seCzLToy24AAAAc/you-can-do-it-i-believe-in-you.gif" alt="animated" width="540" height="280" />
+</p> 
     
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
