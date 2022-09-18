@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94757558130'],['94771825716' //ur owner number
-global.ownername = "L D  B.MANETH"
+global.owner = ['94757558130'],['94771825716'], //ur owner number
+global.ownername = "L D  B.MANETH & INDUMINA H B "
 global.ytname = "YT: BISA YT" //ur yt chanel name
 global.socialm = "GitHub: dark lyon tm" //ur github or insta name
 global.location = "Sri lanka, kaluthara, dodangoda" //ur location
@@ -55,8 +55,8 @@ global.packname = "👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ ♥️ "
 global.author = "👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ"
 global.themeemoji = "👑"
 global.reactmoji = "🖤"
-global.ownertag = ['94771825716'],['94757558130'] //ur owner tag
-global.ownernummenu = ['94771825716'],['94757558130'] //ur owner number in menu and all
+global.ownertag = ['94771825716'],['94757558130'],['94701505642'] //ur owner tag
+global.ownernummenu = ['94771825716'],['94757558130'],['94701505642'] //ur owner number in menu and all
 global.watermark = "👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ" //ur watermark
 global.botscript = "https://github.com/bisandamaneth/DARK-BISA-MD-V1"
 global.linkz1 = "https://chat.whatsapp.com/F6cwRrsPTp39PA4J0ll6TF"
@@ -90,9 +90,9 @@ global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
-global.sessionName = "session"
+global.sessionName = "session.dark"
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','♥️','🐲','🎭']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
