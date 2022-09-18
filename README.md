@@ -6,7 +6,7 @@
 <h1 align="center">👑ᴅᴀʀᴋ࿔᭄ＢＩＳＡᴹᴰ<br></h1>
 <p align="center">
 
-<img src="https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-independence-day-happy-sri-lanka-independence-day/tenor.gif" alt="animated" width="400" height="280" />
+<img src="https://media.tenor.co/PvtFd0V_5_MAAAAc/sri-lanka-independence-day-happy-sri-lanka-independence-day/tenor.gif" alt="animated" width="300" height="280" />
 </p>
 
     
